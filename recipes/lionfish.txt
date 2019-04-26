@@ -26,9 +26,6 @@ Directions:
 11. Add about a half teaspoon of salt, taste, and add more if needed.
 Time: 35 minutes
 
-<<<<<<< HEAD
-
-
 =======
 Servings: 8
 Time: 1 hour
@@ -43,10 +40,6 @@ Time: 1 hour
 4. Once the sausage is browned, remove it from the pot and add the peppers, onions, and garlic.
 6. After the peppers and onions have softened, return the sliced sausage to the pot along with the diced tomatoes, basil, oregano, and crushed red pepper.
 7. Lay bacon slices over the top, tucking them underneath the meatloaf.
-<<<<<<< HEAD
-=======
->>>>>>> 518297d218ca54d963bafd54c733f74c5ed71154
-=======
->>>>>>> e3d8849becd0de2b170ed8785ecf785c53c09ac9
+
 
 
